@@ -13,6 +13,8 @@ This project has been made together with [LashaGoch](https://github.com/LashaGoc
 
 ## [:white_check_mark: RR_project changes](https://github.com/lajobu/Ordered_choice_logit_model/blob/master/OrderChoiceModel_RR_project.Rmd)
 
+The `Reproducible Research project` is made together with [Noam](https://github.com/noam3010)
+
 ## :star: Description:
 
 In our study we used `data collected by Stack Overflow` during the `annual survey in 2018` designed for programmers. Stack Overflow is a community forum for programmers. In this forum the users are able to ask questions about their programs, and one is able to reply to them sharing his knowledge.
