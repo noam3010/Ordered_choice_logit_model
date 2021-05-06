@@ -9,8 +9,7 @@ This project has been made together with [LashaGoch](https://github.com/LashaGoc
 ## [:white_check_mark: RPubs](https://rpubs.com/Lajobu/o_choice_logit)
 ## [:white_check_mark: Data source](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey)
 
-## Currently this repository is going to be part of the `final project for the subject Reproducible Research`. 
-The new changes can be found in the following link:
+## Currently this repository is going to be part of the `final project for the subject Reproducible Research`. The new changes can be found in the following link:
 
 ## [:white_check_mark: RR_project changes](https://github.com/lajobu/Ordered_choice_logit_model/blob/master/OrderChoiceModel_RR_project.Rmd)
 
