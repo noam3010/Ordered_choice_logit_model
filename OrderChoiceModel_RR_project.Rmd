@@ -1,6 +1,6 @@
 ---
 title: 'Ordered Choice Logit Model for Career Satisfaction of Programmers in Eastern Europe'
-author: 'Jorge Bueno Perez & Lashari Gochiashvili'
+author: 'Jorge Bueno Perez & Lashari Gochiashvili' # Modification performed by Jorge Bueno Perez and Noam Shmuel
 output:
   html_document:
     highlight: tango
