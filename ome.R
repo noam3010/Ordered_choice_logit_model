@@ -1,3 +1,6 @@
+#Ask Jorge to document/comment on the different functions and their functions 
+#Not so clear
+
 
 ome = function(model, x) {
   
